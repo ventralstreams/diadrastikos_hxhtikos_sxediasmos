@@ -39,3 +39,16 @@
 ## ΕΠΙΛΟΓΟΣ
 
 Στην εργασία αυτή είδαμε συνοπτικά τον ρόλο που έπαιξαν η επανάληψη και οι βρόχοι ανατροφοδότησης στις επιστήμες και τις τέχνες. Οι βρόχοι ανατροφοδότησης αποτελούν αναγκαίες διεργασίες για την δημιουργία εύφορων περιβαλλόντων για εξέλιξη και θεματικά αποτελούν ένα σημαντικό κεφάλαιο στην φιλοσοφική, επιστημονική και καλλιτεχνική μελέτη και έρευνα. Είδαμε πως ο βρόχος ανατροφοδότησης στην εικόνα επηρέασε τις εικαστικές τέχνες και στον ήχο πως έπαιξε σημαντικό ρόλο στους πειραματισμούς των μινιμαλιστών. Η γοητεία που ιστορικά η θεματική της επανάληψης ασκεί στην σκέψη των μελετητών και δημιουργών, μέσα από ένα διεπιστημονικό feedback loop έχει οδηγήσει στην γέννηση νέων ιδεών και πολιτισμικών και επιστημονικών καινοτομιών.
+
+
+## ΒΙΒΛΙΟΓΡΑΦΙΑ  
+
+Achituv, Romy. “Algorithms as Structural Metaphors: Reflections on the Digital-Cultural Feedback Loop.” Leonardo 46, no. 2 (2013): 171–142. http://www.jstor.org/stable/23468155.  
+
+Johnson, Timothy A. “Minimalism: Aesthetic, Style, or Technique?” The Musical Quarterly 78, no. 4 (1994): 742–73. http://www.jstor.org/stable/742508.  
+
+Levaux, Christophe. ‘Loop’. Rock Music Studies 3, no. 2 (3 May 2016): 167–79. https://doi.org/10.1080/19401159.2016.1155382.  
+
+Hahn, Tomie, and Dan Trueman. “Physicality and Feedback: A Focus on the Body in the Performance of Electronic Music.” Proceedings of the International  …, 2001.  
+
+Mandelbrot, B. B.. The fractal geometry of nature. 3 New York: W. H. Freeman and Comp., 1983.  
